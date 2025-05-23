@@ -75,6 +75,14 @@
     {
       "id": "Snowflake",
       "isDefault": false
+    },
+    {
+      "id": "Critical_high_Issues",
+      "isDefault": false
+    },
+    {
+      "id": "Sheet1",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
